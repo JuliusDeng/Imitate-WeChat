@@ -1,0 +1,35 @@
+<template>
+	<view >
+		<view class="flex">
+			<view class="border flex-1">
+				111
+			</view>
+			<view class="border flex-1">
+				222
+			</view>
+		</view>
+		
+		
+		
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+				title: 'Hello'
+			}
+		},
+		onLoad() {
+
+		},
+		methods: {
+
+		}
+	}
+</script>
+
+<style>
+	
+</style>
